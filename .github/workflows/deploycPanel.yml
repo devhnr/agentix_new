@@ -21,4 +21,3 @@ jobs:
         server: 172.105.49.113
         username: agentix_git@agentix.raghnall.co.in
         password: ${{ secrets.PROD_FTP_PASS }}
-        server-dir: agentix_new/
