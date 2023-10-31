@@ -1,0 +1,20 @@
+[01-Sep-2023 04:29:25 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php:2
+Stack trace:
+#0 /home/raghnall/agentix/beta/site/views/agent-admin/index.php(1): include()
+#1 {main}
+  thrown in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php on line 2
+[07-Sep-2023 10:25:50 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php:2
+Stack trace:
+#0 /home/raghnall/agentix/beta/site/views/agent-admin/index.php(1): include()
+#1 {main}
+  thrown in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php on line 2
+[07-Sep-2023 10:25:53 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php:2
+Stack trace:
+#0 /home/raghnall/agentix/beta/site/views/agent-admin/index.php(1): include()
+#1 {main}
+  thrown in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php on line 2
+[12-Sep-2023 05:00:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php:2
+Stack trace:
+#0 /home/raghnall/agentix/beta/site/views/agent-admin/index.php(1): include()
+#1 {main}
+  thrown in /home/raghnall/agentix/beta/site/views/agent-admin/includes/header.php on line 2
